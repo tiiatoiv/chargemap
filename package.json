@@ -1,7 +1,7 @@
 {
   "name": "chargemap",
   "version": "1.0.0",
-  "description": "Chargemap rest api",
+  "description": "Chargemap test",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ruon1s/chargemap.git"
+    "url": "git+https://github.com/tiiatoiv/chargemap.git"
   },
-  "author": "Mikael Ruonala",
+  "author": "Tiia Toivonen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ruon1s/chargemap/issues"
+    "url": "https://github.com/tiiatoiv/chargemap/issues"
   },
-  "homepage": "https://github.com/Ruon1s/chargemap#readme",
+  "homepage": "https://github.com/tiiatoiv/chargemap#readme",
   "type": "module",
   "dependencies": {
     "apollo-server-express": "^2.22.2",
